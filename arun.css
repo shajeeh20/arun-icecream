@@ -1,0 +1,221 @@
+
+html{
+    scroll-behavior: smooth;
+    
+}
+*{
+    box-sizing: border-box;
+    text-decoration: none;
+    border-color: #fff;
+    color:#A6A8AB;
+    font-family: 'Helvetica';
+    font-weight: 15px;
+    
+}
+body{
+    margin: 0;
+   
+   
+}
+header{
+    width: 100%;
+    
+    height: 100px;
+    position: fixed;
+    z-index: 1; 
+}
+.outer-box{
+    height: 2000px;
+}
+
+.logo{
+    width: 20%;
+    background-color:#fff;
+    height: 80px;
+    float: left; 
+
+}
+.imagelogo{
+    width: 135px;
+    margin-left: 70px;
+    margin-top: 20px;
+}
+.attributes{
+    width: 60%;
+    background-color: #fff;
+    height: 80%;
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 2px;
+    padding-top: 50px;
+    word-spacing: 55px;
+    font-size: 15px;
+    text-align: center;
+
+}
+.About{
+    text-decoration:none;
+    color:#A6A8AB;
+    font-family: 'Helvetica';
+    font-weight: 15px;
+    
+    
+   
+}
+.product{
+    text-decoration: none;
+    color:#A6A8AB;
+    font-family: 'Helvetica';
+    font-weight: 18px;
+   
+   
+}
+.player{
+    text-decoration: none;
+    color:#A6A8AB;
+    font-family: 'Helvetica';
+    font-weight: 15px;
+}
+.store{
+    text-decoration: none;
+    color:#A6A8AB;
+    font-family: 'Helvetica';
+    font-weight: 15px;
+}
+.contact{
+    text-decoration: none;
+    color:#A6A8AB;
+    font-family: 'Helvetica';
+    font-weight: 15px;
+    
+}
+label :hover{
+    background-color: #fff;
+    color: rgb(22, 2, 2);
+
+}
+
+
+
+.media{
+    width: 20%;
+    background-color: #fff;
+    height: 80%;
+    float: left;
+    padding-left: 95px;
+   
+}
+.insti{
+    position: relative;
+    margin-top: 49px;
+    width: 32px;
+    
+
+
+}
+.youtub{
+    position: relative;
+    margin-top: 47px;
+    width: 35px;
+    
+
+}
+
+.container{
+    font-size: 30px;
+   
+    
+
+}
+.onearun{
+    height: 800px;
+    max-width: 100%;
+    
+  
+}
+.click{
+   text-transform: uppercase;
+   position: relative;
+   bottom: 25rem;
+   left: 47rem;
+   border-style: solid;
+   border-width: 2px;
+   border-color: #A6A8AB;
+   font-size: 1.3rem;
+   padding: 0.2rem 0.8rem;
+
+}
+
+.twoarun{
+    height: 800px;
+    max-width: 100%;
+
+}
+.click2{
+   
+    text-transform: uppercase;
+    text-transform: uppercase;
+    position: relative;
+    bottom: 15rem;
+    left: 47rem;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #A6A8AB;
+    font-size: 1.3rem;
+    padding: 0.2rem 0.8rem;
+ }
+.threearun{
+    height: 800px;
+    max-width: 100%;
+
+}
+.click3{
+   
+    text-transform: uppercase;
+    text-transform: uppercase;
+    position: relative;
+    bottom: 15rem;
+    left: 47rem;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #A6A8AB;
+    font-size: 1.3rem;
+    padding: 0.2rem 0.8rem;
+ }
+.fourarun{
+    height: 800px;
+    max-width: 100%;
+
+}
+.click4{
+   
+    text-transform: uppercase;
+    text-transform: uppercase;
+    position: relative;
+    bottom: 15rem;
+    left: 47rem;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #A6A8AB;
+    font-size: 1.1rem;
+    padding: 0.2rem 0.8rem;
+ }
+.fivearun{
+    height: 800px;
+    max-width: 100%;
+
+}
+.click5{
+   
+    text-transform: uppercase;
+    text-transform: uppercase;
+    position: relative;
+    bottom: 15rem;
+    left: 47rem;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #A6A8AB;
+    font-size: 1.1rem;
+    padding: 0.2rem 0.4rem;
+ }
+
